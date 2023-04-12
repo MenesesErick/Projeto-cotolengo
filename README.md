@@ -1,2 +1,2 @@
 # Projeto-cotolengo
-Aprendendo front do zero crinado um site
+Aprendendo front do zero criando um site
